@@ -1157,6 +1157,9 @@ footer ul {
 .copyright p a {
   color: #d4d4d4;
 }
+.copyright p a:hover {
+  text-decoration: underline;
+}
 /*
     Mobile Menu Core Style
 */
